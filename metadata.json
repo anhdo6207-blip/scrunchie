@@ -1,0 +1,8 @@
+{
+  "name": "Blonéa - Scrunchies for your everyday vibe",
+  "description": "Thương hiệu phụ kiện scrunchies và dây buộc tóc thời trang dành cho giới trẻ. Xinh trên tóc, điệu trên tay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
